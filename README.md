@@ -1,29 +1,17 @@
 # One Up on Wall Street
 
-**Fall 2021 - Winter 2022**
+**Summary Content**
 
-A not-complete summary of the “Introduction to Information Retrieval” book, mainly in English, with some Persian in between.
-
-Math equations are not shown correctly in Github. You can:
-
-**Check it on [Notion](https://savaw.notion.site/Modern-Information-Retrieval-c9a4a6f882a148cf98764fcefb3974a1)** (Recommended)
-
-or
-
-Clone and use markdown preview features of editors such as VScode.
+My notes
 
 ## Source
 
-[Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
+Hard Copy
 
 
 ## Table of Content
 
-[Chapter 1 - Boolean retrieval](Modern%20Information%20Retrieval%20c9a4a6f882a148cf98764fcefb3974a1/Chapter%201%20-%20Boolean%20retrieval%2011860748be2444688f58915fcb35e208.md)
-
-[Chapter 2 - The term vocabulary and postings lists](Modern%20Information%20Retrieval%20c9a4a6f882a148cf98764fcefb3974a1/Chapter%202%20-%20The%20term%20vocabulary%20and%20postings%20lists%20dbdf06755360451b94f488daf1de4bc2.md)
-
-[Chapter 5 - Index compression](Modern%20Information%20Retrieval%20c9a4a6f882a148cf98764fcefb3974a1/Chapter%205%20-%20Index%20compression%205c2594e16bbb4014b7580dd02806ddb0.md)
+[Chapter 5 - Is This a Good Market? Please Don't Ask](Modern%20Information%20Retrieval%20c9a4a6f882a148cf98764fcefb3974a1/Chapter%205%20-%20Index%20compression%205c2594e16bbb4014b7580dd02806ddb0.md)
 
 [Chapter 6 - Scoring, term weighting and the vector space model](Modern%20Information%20Retrieval%20c9a4a6f882a148cf98764fcefb3974a1/Chapter%206%20-%20Scoring,%20term%20weighting%20and%20the%20vector%20f57fabdee64443dbac818473772f99f8.md)
 

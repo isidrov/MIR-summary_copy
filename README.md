@@ -1,4 +1,4 @@
-# Modern Information Retrieval Summary
+# One Up on Wall Street
 
 **Fall 2021 - Winter 2022**
 
